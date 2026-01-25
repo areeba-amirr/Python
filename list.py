@@ -1,0 +1,23 @@
+data = ["Areeba" , 19, "Karach",93.9]
+print(data[3])
+data[0] = "Areeba Muhammad Aamir"
+print(data)
+num = [2,5,5,1,5,7,8,9,4,6,7,8]
+num.sort()
+print(num)
+num.append(33)
+print(num)
+num.reverse()
+print(num)
+num.insert(2,0)
+print(num)
+print(num.pop(9))
+print(num)
+num.remove(5)
+print(num)
+print(len(num))
+print(max(num))
+# num.clear()
+print(num.index(5))
+print(num.count(8))
+print(num)
