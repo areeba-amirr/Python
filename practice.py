@@ -75,3 +75,6 @@ list1 = [2,5,6,7]
 # t1 = (22,3,4,6)
 # str(t1)
 # print(type(t1))
+#dictionary
+marks = {}
+
